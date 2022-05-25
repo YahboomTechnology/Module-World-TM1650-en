@@ -6,7 +6,7 @@
 /**
  * TM1650 digit Display
  */
-//% weight=20 color=#64C800 icon="8" block="TM1650"
+//% weight=20 color=#64C800 icon="8" block="Module_TM1650"
 namespace Module_TM1650 {
 
     let COMMAND_I2C_ADDRESS = 0x24
